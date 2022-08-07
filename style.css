@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+    margin-top: 60px;
+}
+
+.window {
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    font-weight: bolder;
+    background-color: darkgray;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.main {
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    height: 300px;
+    margin-bottom: 40px;
+}
+
+.control {
+    border-radius: 5px;
+    width: 50px;
+    height: 60px;
+    color: white;
+    background-color: black;
+    margin: 5px 2px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.text {
+    color: black;
+    font-size: 25px;
+    margin: 14px;
+}
+
+.mainC {
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: rgb(71, 126, 245);
+    width: 100px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 30px;
+    font-size: 17px;
+    margin: 10px;
+
+}
+
+h1 {
+    background-color: aqua;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 35px;
+    vertical-align: middle;
+}
